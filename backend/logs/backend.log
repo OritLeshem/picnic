@@ -152,3 +152,107 @@
 3.5.2023, 11:36:32 - INFO - New connected socket [id: aZAycXu_6ZFgtyWLAAAZ] 
 3.5.2023, 11:40:10 - INFO - Socket disconnected [id: undefined] 
 3.5.2023, 11:40:11 - INFO - New connected socket [id: -psT6Uz4yVS9zFlZAAAb] 
+3.5.2023, 11:49:10 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 11:49:10 - INFO - New connected socket [id: 97AmoM7DATJODNZYAAAd] 
+3.5.2023, 11:49:11 - INFO - Setting socket.userId = 101 for socket [id: 97AmoM7DATJODNZYAAAd] 
+3.5.2023, 11:49:17 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 11:49:17 - INFO - New connected socket [id: Q3-9ijujsP99vv3TAAAf] 
+3.5.2023, 11:49:17 - INFO - Setting socket.userId = 101 for socket [id: Q3-9ijujsP99vv3TAAAf] 
+3.5.2023, 11:49:45 - INFO - User is typing from socket [id: Q3-9ijujsP99vv3TAAAf], emitting to topic null 
+3.5.2023, 11:49:46 - INFO - New chat msg from socket [id: Q3-9ijujsP99vv3TAAAf], emitting to topic null 
+3.5.2023, 11:49:46 - INFO - User has stopped typing from socket [id: Q3-9ijujsP99vv3TAAAf], emitting to topic null 
+3.5.2023, 11:49:54 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 11:49:54 - INFO - New connected socket [id: DyHN2fDKlEJPtVDTAAAh] 
+3.5.2023, 11:49:55 - INFO - Setting socket.userId = 101 for socket [id: DyHN2fDKlEJPtVDTAAAh] 
+3.5.2023, 11:50:13 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 11:50:13 - INFO - New connected socket [id: rMDFqMXqjDH2C6HSAAAj] 
+3.5.2023, 11:50:13 - INFO - Setting socket.userId = 101 for socket [id: rMDFqMXqjDH2C6HSAAAj] 
+3.5.2023, 11:50:24 - DEBUG - auth.service - login with username: s 
+3.5.2023, 11:50:24 - INFO - User login:  | {"_id":"64525ec51bee1d877f77cc14","username":"s","fullname":"s","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+3.5.2023, 11:50:28 - INFO - User is typing from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:50:30 - INFO - New chat msg from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:50:30 - INFO - User has stopped typing from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:53:46 - INFO - New chat msg from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic chat 
+3.5.2023, 11:53:46 - INFO - User has stopped typing from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic chat 
+3.5.2023, 11:53:51 - INFO - New chat msg from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic chat 
+3.5.2023, 11:53:51 - INFO - User has stopped typing from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic chat 
+3.5.2023, 11:54:15 - INFO - Socket is leaving topic chat [id: rMDFqMXqjDH2C6HSAAAj] 
+3.5.2023, 11:54:16 - INFO - User is typing from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:54:17 - INFO - New chat msg from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:54:17 - INFO - User has stopped typing from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:54:53 - INFO - User is typing from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:54:54 - INFO - New chat msg from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:54:54 - INFO - User has stopped typing from socket [id: rMDFqMXqjDH2C6HSAAAj], emitting to topic null 
+3.5.2023, 11:57:21 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 11:57:22 - INFO - New connected socket [id: lPr2luLWXe2MqhFEAAAl] 
+3.5.2023, 11:57:22 - INFO - Setting socket.userId = 101 for socket [id: lPr2luLWXe2MqhFEAAAl] 
+3.5.2023, 11:58:23 - INFO - User is typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 11:58:24 - INFO - New chat msg from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 11:58:24 - INFO - User has stopped typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 11:58:46 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 11:58:46 - INFO - New connected socket [id: zVnA3gHEgyC-ThtMAAAn] 
+3.5.2023, 11:58:47 - INFO - Setting socket.userId = 101 for socket [id: zVnA3gHEgyC-ThtMAAAn] 
+3.5.2023, 11:58:51 - INFO - User is typing from socket [id: zVnA3gHEgyC-ThtMAAAn], emitting to topic null 
+3.5.2023, 11:58:53 - INFO - New chat msg from socket [id: zVnA3gHEgyC-ThtMAAAn], emitting to topic null 
+3.5.2023, 11:58:53 - INFO - User has stopped typing from socket [id: zVnA3gHEgyC-ThtMAAAn], emitting to topic null 
+3.5.2023, 11:58:56 - INFO - User is typing from socket [id: zVnA3gHEgyC-ThtMAAAn], emitting to topic null 
+3.5.2023, 11:58:58 - INFO - New chat msg from socket [id: zVnA3gHEgyC-ThtMAAAn], emitting to topic null 
+3.5.2023, 11:58:58 - INFO - User has stopped typing from socket [id: zVnA3gHEgyC-ThtMAAAn], emitting to topic null 
+3.5.2023, 11:59:01 - INFO - User is typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 11:59:02 - INFO - New chat msg from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 11:59:02 - INFO - User has stopped typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:00:46 - INFO - User is typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:00:50 - INFO - User has stopped typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:00:51 - INFO - New chat msg from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:00:51 - INFO - User has stopped typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:01:04 - INFO - User is typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:01:08 - INFO - User has stopped typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:01:36 - INFO - User is typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:01:40 - INFO - User has stopped typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:02:00 - INFO - User is typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:02:03 - INFO - User has stopped typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:02:08 - INFO - User is typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:02:13 - INFO - User has stopped typing from socket [id: lPr2luLWXe2MqhFEAAAl], emitting to topic null 
+3.5.2023, 12:02:14 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:02:14 - INFO - New connected socket [id: XmmqsykBJI7vn2EMAAAp] 
+3.5.2023, 12:02:14 - INFO - Setting socket.userId = 101 for socket [id: XmmqsykBJI7vn2EMAAAp] 
+3.5.2023, 12:02:16 - INFO - User is typing from socket [id: XmmqsykBJI7vn2EMAAAp], emitting to topic null 
+3.5.2023, 12:02:18 - INFO - User has stopped typing from socket [id: XmmqsykBJI7vn2EMAAAp], emitting to topic null 
+3.5.2023, 12:02:19 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:02:19 - INFO - New connected socket [id: GXYVTCPGZr5ZJxS-AAAr] 
+3.5.2023, 12:02:20 - INFO - Setting socket.userId = 101 for socket [id: GXYVTCPGZr5ZJxS-AAAr] 
+3.5.2023, 12:02:21 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:02:21 - INFO - New connected socket [id: ih-EBWAWbS-I2ca-AAAt] 
+3.5.2023, 12:02:22 - INFO - Setting socket.userId = 101 for socket [id: ih-EBWAWbS-I2ca-AAAt] 
+3.5.2023, 12:02:23 - INFO - User is typing from socket [id: ih-EBWAWbS-I2ca-AAAt], emitting to topic null 
+3.5.2023, 12:02:25 - INFO - User has stopped typing from socket [id: ih-EBWAWbS-I2ca-AAAt], emitting to topic null 
+3.5.2023, 12:04:51 - INFO - Server is running on port: 3030 
+3.5.2023, 12:04:52 - INFO - New connected socket [id: Xw3YwhEsYtVNVEvLAAAB] 
+3.5.2023, 12:04:53 - INFO - New connected socket [id: WUCN4o8qfCs9AI7xAAAD] 
+3.5.2023, 12:04:58 - INFO - Server is running on port: 3030 
+3.5.2023, 12:04:59 - INFO - New connected socket [id: sH51Pe8BnFC8W3FfAAAB] 
+3.5.2023, 12:04:59 - INFO - New connected socket [id: obKRGid0dIYvbweUAAAD] 
+3.5.2023, 12:05:09 - ERROR - while finding user by id: 64525ec51bee1d877f77cc14 | TypeError: Cannot convert undefined or null to object (userId: 64525ec51bee1d877f77cc14)
+3.5.2023, 12:05:09 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object (userId: 64525ec51bee1d877f77cc14)
+3.5.2023, 12:05:14 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:05:14 - INFO - New connected socket [id: YvzNdvx7VZ0WvuL0AAAF] 
+3.5.2023, 12:05:14 - ERROR - while finding user by id: 64525ec51bee1d877f77cc14 | TypeError: Cannot convert undefined or null to object (userId: 64525ec51bee1d877f77cc14)
+3.5.2023, 12:05:14 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object (userId: 64525ec51bee1d877f77cc14)
+3.5.2023, 12:05:14 - INFO - Setting socket.userId = 101 for socket [id: YvzNdvx7VZ0WvuL0AAAF] 
+3.5.2023, 12:05:33 - INFO - Server is running on port: 3030 
+3.5.2023, 12:05:34 - INFO - New connected socket [id: qt1zXwFbPul2IVRZAAAB] 
+3.5.2023, 12:05:37 - INFO - New connected socket [id: PmRCC355twnD65odAAAD] 
+3.5.2023, 12:05:48 - INFO - Server is running on port: 3030 
+3.5.2023, 12:05:48 - INFO - New connected socket [id: H1cLy9sqCpVttT60AAAB] 
+3.5.2023, 12:05:49 - INFO - New connected socket [id: MFXkFS-Is6audeaZAAAD] 
+3.5.2023, 12:06:00 - DEBUG - auth.service - signup with username: d, fullname: d 
+3.5.2023, 12:06:01 - DEBUG - auth.route - new account created: {"username":"d","password":"$2b$10$1SmXFgZ23YwXesrW9rgZvOBmIS0bjtbG3sTVSjKE2ceGsK38p75Ii","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100,"_id":"645286693cf1431dc48e756d"} 
+3.5.2023, 12:06:01 - DEBUG - auth.service - login with username: d 
+3.5.2023, 12:06:01 - INFO - User signup: | {"_id":"645286693cf1431dc48e756d","username":"d","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+3.5.2023, 12:06:16 - DEBUG - auth.service - signup with username: g, fullname: g 
+3.5.2023, 12:06:16 - DEBUG - auth.route - new account created: {"username":"g","password":"$2b$10$25EszOe.y2ZXXfOGFeBEmuGr327Aw3abVLgZgHSZ55fjUwMVeqM22","fullname":"g","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100,"_id":"645286783cf1431dc48e756e"} 
+3.5.2023, 12:06:16 - DEBUG - auth.service - login with username: g 
+3.5.2023, 12:06:16 - INFO - User signup: | {"_id":"645286783cf1431dc48e756e","username":"g","fullname":"g","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+3.5.2023, 12:07:00 - INFO - Server is running on port: 3030 
+3.5.2023, 12:07:01 - INFO - New connected socket [id: UlA-HuRhtAwkWY5BAAAB] 
+3.5.2023, 12:07:02 - INFO - New connected socket [id: R8HDccpYfEP9hX1aAAAD] 
