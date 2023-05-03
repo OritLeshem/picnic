@@ -256,3 +256,99 @@
 3.5.2023, 12:07:00 - INFO - Server is running on port: 3030 
 3.5.2023, 12:07:01 - INFO - New connected socket [id: UlA-HuRhtAwkWY5BAAAB] 
 3.5.2023, 12:07:02 - INFO - New connected socket [id: R8HDccpYfEP9hX1aAAAD] 
+3.5.2023, 12:11:55 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:11:55 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:11:55 - INFO - New connected socket [id: nzM7vaOaZ-tJRcsrAAAF] 
+3.5.2023, 12:11:55 - INFO - New connected socket [id: IEaqCJQ-ei7yEBNjAAAH] 
+3.5.2023, 12:11:56 - INFO - Setting socket.userId = 101 for socket [id: IEaqCJQ-ei7yEBNjAAAH] 
+3.5.2023, 12:11:56 - ERROR - while finding user by id: 64525ec51bee1d877f77cc14 | TypeError: Cannot convert undefined or null to object (userId: 645286693cf1431dc48e756d)
+3.5.2023, 12:11:56 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object (userId: 645286693cf1431dc48e756d)
+3.5.2023, 12:11:57 - INFO - Setting socket.userId = 101 for socket [id: nzM7vaOaZ-tJRcsrAAAF] 
+3.5.2023, 12:32:53 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:32:57 - INFO - New connected socket [id: Nqcdg--QN8jsWwZ_AAAJ] 
+3.5.2023, 12:32:58 - INFO - Setting socket.userId = 101 for socket [id: Nqcdg--QN8jsWwZ_AAAJ] 
+3.5.2023, 12:32:58 - ERROR - while finding user by id: 64525ec51bee1d877f77cc14 | TypeError: Cannot convert undefined or null to object (userId: 645286693cf1431dc48e756d)
+3.5.2023, 12:32:58 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object (userId: 645286693cf1431dc48e756d)
+3.5.2023, 12:42:18 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:42:18 - INFO - New connected socket [id: rJBbsv9uXpsHQnDEAAAL] 
+3.5.2023, 12:42:18 - INFO - Setting socket.userId = 101 for socket [id: rJBbsv9uXpsHQnDEAAAL] 
+3.5.2023, 12:42:42 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:42:42 - INFO - New connected socket [id: Dn1V7q_x7FFO1qz_AAAN] 
+3.5.2023, 12:42:42 - INFO - Setting socket.userId = 101 for socket [id: Dn1V7q_x7FFO1qz_AAAN] 
+3.5.2023, 12:42:42 - ERROR - while finding user by id: 64525ec51bee1d877f77cc14 | TypeError: Cannot convert undefined or null to object (userId: 645286693cf1431dc48e756d)
+3.5.2023, 12:42:42 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object (userId: 645286693cf1431dc48e756d)
+3.5.2023, 12:50:20 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 12:50:20 - INFO - New connected socket [id: q2FVNtiHg3PKxgw5AAAP] 
+3.5.2023, 12:50:20 - INFO - Setting socket.userId = 101 for socket [id: q2FVNtiHg3PKxgw5AAAP] 
+3.5.2023, 13:02:12 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:02:12 - INFO - New connected socket [id: PZa3kmn2K7EWIH6iAAAR] 
+3.5.2023, 13:02:12 - INFO - Setting socket.userId = 101 for socket [id: PZa3kmn2K7EWIH6iAAAR] 
+3.5.2023, 13:02:40 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:02:41 - INFO - New connected socket [id: 72fCYaPnl2VUcl54AAAT] 
+3.5.2023, 13:02:41 - INFO - Setting socket.userId = 101 for socket [id: 72fCYaPnl2VUcl54AAAT] 
+3.5.2023, 13:02:47 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:02:47 - INFO - New connected socket [id: PsDa_1dwpEVu2b0FAAAV] 
+3.5.2023, 13:02:47 - INFO - Setting socket.userId = 101 for socket [id: PsDa_1dwpEVu2b0FAAAV] 
+3.5.2023, 13:02:50 - INFO - User is typing from socket [id: PsDa_1dwpEVu2b0FAAAV], emitting to topic picnic 
+3.5.2023, 13:02:51 - INFO - New chat msg from socket [id: PsDa_1dwpEVu2b0FAAAV], emitting to topic picnic 
+3.5.2023, 13:02:51 - INFO - User has stopped typing from socket [id: PsDa_1dwpEVu2b0FAAAV], emitting to topic picnic 
+3.5.2023, 13:03:03 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:03:03 - INFO - New connected socket [id: C0nf24vVBqAZxcN3AAAX] 
+3.5.2023, 13:03:04 - INFO - Setting socket.userId = 101 for socket [id: C0nf24vVBqAZxcN3AAAX] 
+3.5.2023, 13:03:09 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:03:09 - INFO - New connected socket [id: Z_iD009X3LcIOyz6AAAZ] 
+3.5.2023, 13:03:10 - INFO - Setting socket.userId = 101 for socket [id: Z_iD009X3LcIOyz6AAAZ] 
+3.5.2023, 13:03:13 - INFO - User is typing from socket [id: PsDa_1dwpEVu2b0FAAAV], emitting to topic picnic 
+3.5.2023, 13:03:15 - INFO - New chat msg from socket [id: PsDa_1dwpEVu2b0FAAAV], emitting to topic picnic 
+3.5.2023, 13:03:15 - INFO - User has stopped typing from socket [id: PsDa_1dwpEVu2b0FAAAV], emitting to topic picnic 
+3.5.2023, 13:08:15 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:08:15 - INFO - New connected socket [id: FQmprSDd_fbguGc3AAAb] 
+3.5.2023, 13:08:16 - INFO - Setting socket.userId = 101 for socket [id: FQmprSDd_fbguGc3AAAb] 
+3.5.2023, 13:10:11 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:10:11 - INFO - New connected socket [id: PZd5JeAMy6UHIbgSAAAd] 
+3.5.2023, 13:10:11 - INFO - Setting socket.userId = 101 for socket [id: PZd5JeAMy6UHIbgSAAAd] 
+3.5.2023, 13:10:14 - DEBUG - auth.service - login with username: g 
+3.5.2023, 13:10:14 - INFO - User login:  | {"_id":"645286783cf1431dc48e756e","username":"g","fullname":"g","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+3.5.2023, 13:28:33 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:28:34 - INFO - New connected socket [id: aJ_l_ZxOGUlJjcqTAAAf] 
+3.5.2023, 13:36:11 - DEBUG - auth.service - login with username: d 
+3.5.2023, 13:36:11 - INFO - User login:  | {"_id":"645286693cf1431dc48e756d","username":"d","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+3.5.2023, 13:40:06 - DEBUG - auth.service - login with username: d 
+3.5.2023, 13:40:06 - INFO - User login:  | {"_id":"645286693cf1431dc48e756d","username":"d","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+3.5.2023, 13:51:43 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:51:44 - INFO - New connected socket [id: QFpscI4W7YSJJhDTAAAh] 
+3.5.2023, 13:51:44 - INFO - Setting socket.userId = 101 for socket [id: QFpscI4W7YSJJhDTAAAh] 
+3.5.2023, 13:53:07 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 13:53:07 - INFO - New connected socket [id: NiiQENRcgu-JtA7rAAAj] 
+3.5.2023, 13:53:08 - INFO - Setting socket.userId = 101 for socket [id: NiiQENRcgu-JtA7rAAAj] 
+3.5.2023, 14:07:38 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 14:07:39 - INFO - New connected socket [id: 4p1ydMLYAo60HF2rAAAl] 
+3.5.2023, 14:07:39 - INFO - Setting socket.userId = 101 for socket [id: 4p1ydMLYAo60HF2rAAAl] 
+3.5.2023, 14:08:06 - INFO - User is typing from socket [id: 4p1ydMLYAo60HF2rAAAl], emitting to topic picnic 
+3.5.2023, 14:08:06 - INFO - New chat msg from socket [id: 4p1ydMLYAo60HF2rAAAl], emitting to topic picnic 
+3.5.2023, 14:08:06 - INFO - User has stopped typing from socket [id: 4p1ydMLYAo60HF2rAAAl], emitting to topic picnic 
+3.5.2023, 14:14:25 - DEBUG - auth.service - login with username: d 
+3.5.2023, 14:14:26 - INFO - User login:  | {"_id":"645286693cf1431dc48e756d","username":"d","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+3.5.2023, 14:14:45 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 14:14:45 - INFO - New connected socket [id: bgRvexUgNTi2smw7AAAn] 
+3.5.2023, 14:14:46 - INFO - Setting socket.userId = 101 for socket [id: bgRvexUgNTi2smw7AAAn] 
+3.5.2023, 14:16:34 - DEBUG - auth.service - login with username: d 
+3.5.2023, 14:16:34 - INFO - User login:  | {"_id":"645286693cf1431dc48e756d","username":"d","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+3.5.2023, 14:20:14 - INFO - New connected socket [id: gR3lUqxhYkN-_QqTAAAp] 
+3.5.2023, 14:20:14 - INFO - New connected socket [id: 9ymIsuRtH-_PvI23AAAr] 
+3.5.2023, 14:20:15 - INFO - Setting socket.userId = 101 for socket [id: gR3lUqxhYkN-_QqTAAAp] 
+3.5.2023, 14:20:15 - INFO - Setting socket.userId = 101 for socket [id: 9ymIsuRtH-_PvI23AAAr] 
+3.5.2023, 14:27:59 - INFO - User is typing from socket [id: gR3lUqxhYkN-_QqTAAAp], emitting to topic picnic 
+3.5.2023, 14:28:00 - INFO - New chat msg from socket [id: gR3lUqxhYkN-_QqTAAAp], emitting to topic picnic 
+3.5.2023, 14:28:00 - INFO - User has stopped typing from socket [id: gR3lUqxhYkN-_QqTAAAp], emitting to topic picnic 
+3.5.2023, 14:31:27 - ERROR - while finding user by id: :id | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 645286693cf1431dc48e756d)
+3.5.2023, 14:31:27 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 645286693cf1431dc48e756d)
+3.5.2023, 14:31:35 - ERROR - while finding user by id: :id | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 645286693cf1431dc48e756d)
+3.5.2023, 14:31:35 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 645286693cf1431dc48e756d)
+3.5.2023, 15:04:16 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 15:04:16 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 15:04:16 - INFO - New connected socket [id: FMji8cq8l5b5l8zfAAAt] 
+3.5.2023, 15:04:17 - INFO - Setting socket.userId = 101 for socket [id: FMji8cq8l5b5l8zfAAAt] 
+3.5.2023, 15:04:38 - INFO - Socket disconnected [id: undefined] 
+3.5.2023, 15:04:39 - INFO - New connected socket [id: xYmkWRSMlJ_Ov_hpAAAv] 
+3.5.2023, 15:04:39 - INFO - Setting socket.userId = 101 for socket [id: xYmkWRSMlJ_Ov_hpAAAv] 
