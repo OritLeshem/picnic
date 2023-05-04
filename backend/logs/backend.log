@@ -1055,3 +1055,45 @@
 4.5.2023, 0:09:39 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
 4.5.2023, 0:09:40 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
 4.5.2023, 0:09:40 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:13:33 - INFO - User is typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:13:34 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:13:34 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:05 - INFO - User is typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:06 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:06 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:09 - INFO - User is typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:10 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:10 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:13 - INFO - User is typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:14 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:14 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:16 - INFO - User is typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:17 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:17 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:18 - INFO - User is typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:20 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:20 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:27 - INFO - User is typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:28 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:17:28 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:23:02 - INFO - User is typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:23:03 - INFO - New chat msg from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:23:03 - INFO - User has stopped typing from socket [id: 4WT9tdEiUPlp_JVIAACM], emitting to topic picnic 
+4.5.2023, 0:32:35 - INFO - Socket disconnected [id: undefined] 
+4.5.2023, 0:32:35 - INFO - Socket disconnected [id: undefined] 
+4.5.2023, 0:32:35 - INFO - New connected socket [id: ihdC2H5KavY7c9OqAACQ] 
+4.5.2023, 0:32:35 - INFO - New connected socket [id: h4fjRKs8M1gyzReaAACR] 
+4.5.2023, 0:32:36 - INFO - Setting socket.userId = 101 for socket [id: ihdC2H5KavY7c9OqAACQ] 
+4.5.2023, 0:32:36 - INFO - Setting socket.userId = 101 for socket [id: h4fjRKs8M1gyzReaAACR] 
+4.5.2023, 0:32:42 - INFO - User is typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:32:44 - INFO - New chat msg from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:32:44 - INFO - User has stopped typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:32:45 - INFO - User is typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:32:46 - INFO - New chat msg from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:32:46 - INFO - User has stopped typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:36:24 - INFO - User is typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:36:26 - INFO - New chat msg from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:36:26 - INFO - User has stopped typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:36:28 - INFO - User is typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:36:29 - INFO - New chat msg from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:36:29 - INFO - User has stopped typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
