@@ -1097,3 +1097,15 @@
 4.5.2023, 0:36:28 - INFO - User is typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
 4.5.2023, 0:36:29 - INFO - New chat msg from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
 4.5.2023, 0:36:29 - INFO - User has stopped typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:55:59 - INFO - User is typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:56:01 - INFO - New chat msg from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 0:56:01 - INFO - User has stopped typing from socket [id: ihdC2H5KavY7c9OqAACQ], emitting to topic picnic 
+4.5.2023, 10:13:41 - INFO - Server is running on port: 3030 
+4.5.2023, 10:13:49 - INFO - New connected socket [id: v96CDm5rReIW_gjKAAAB] 
+4.5.2023, 10:13:50 - INFO - Setting socket.userId = 101 for socket [id: v96CDm5rReIW_gjKAAAB] 
+4.5.2023, 10:21:31 - INFO - Socket disconnected [id: undefined] 
+4.5.2023, 10:21:31 - INFO - New connected socket [id: tHT77qMPRu08GyntAAAD] 
+4.5.2023, 10:21:32 - INFO - Setting socket.userId = 101 for socket [id: tHT77qMPRu08GyntAAAD] 
+4.5.2023, 10:21:42 - INFO - Socket disconnected [id: undefined] 
+4.5.2023, 10:21:44 - INFO - New connected socket [id: nODCCti55ByU0YvoAAAF] 
+4.5.2023, 10:21:44 - INFO - Setting socket.userId = 101 for socket [id: nODCCti55ByU0YvoAAAF] 
