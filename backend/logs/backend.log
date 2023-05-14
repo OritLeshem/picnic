@@ -2069,3 +2069,135 @@
 10.5.2023, 18:25:46 - INFO - Socket disconnected [id: undefined] 
 10.5.2023, 18:25:47 - INFO - New connected socket [id: Gxg6Rrj3AABIbFFhAAEn] 
 10.5.2023, 18:25:47 - INFO - Setting socket.userId = 101 for socket [id: Gxg6Rrj3AABIbFFhAAEn] 
+10.5.2023, 18:32:42 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 18:32:42 - INFO - New connected socket [id: QuWfsEOtkyqCwvPaAAEp] 
+10.5.2023, 18:32:43 - INFO - Setting socket.userId = 101 for socket [id: QuWfsEOtkyqCwvPaAAEp] 
+10.5.2023, 18:33:49 - INFO - Server is running on port: 3030 
+10.5.2023, 18:33:49 - INFO - New connected socket [id: Pu7ZDzp7LTEx6z0DAAAB] 
+10.5.2023, 18:34:03 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 18:34:03 - INFO - New connected socket [id: 7KLQw9_nsELNe-WUAAAD] 
+10.5.2023, 18:34:04 - INFO - Setting socket.userId = 101 for socket [id: 7KLQw9_nsELNe-WUAAAD] 
+10.5.2023, 18:34:19 - INFO - Server is running on port: 3030 
+10.5.2023, 18:34:21 - INFO - New connected socket [id: pZIDdvMW6lD_gPhDAAAB] 
+10.5.2023, 18:34:40 - INFO - Server is running on port: 3030 
+10.5.2023, 18:34:41 - INFO - New connected socket [id: gDIwi-Z8hWGluM6qAAAB] 
+10.5.2023, 18:34:53 - INFO - Server is running on port: 3030 
+10.5.2023, 18:34:53 - INFO - New connected socket [id: -qmA0C-zLXvwXU7rAAAB] 
+10.5.2023, 18:35:13 - DEBUG - auth.service - login with username: d 
+10.5.2023, 18:35:13 - INFO - User login:  | {"_id":"645286693cf1431dc48e756d","username":"d","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+10.5.2023, 18:35:49 - DEBUG - auth.service - signup with username: f, fullname: f 
+10.5.2023, 18:35:49 - DEBUG - auth.route - new account created: {"username":"f","password":"$2b$10$mIUOqRM2gvb5PoWYlTF1m./hKtdRPN.3BsTZEQIKi7hU.b04pfEge","fullname":"f","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"645c1c4502a28fa6c95fccf9"} 
+10.5.2023, 18:35:49 - DEBUG - auth.service - login with username: f 
+10.5.2023, 18:35:49 - INFO - User signup: | {"_id":"645c1c4502a28fa6c95fccf9","username":"f","fullname":"f","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+10.5.2023, 18:50:33 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 18:50:35 - INFO - New connected socket [id: RlBr6pyo7gC6FAwtAAAD] 
+10.5.2023, 18:50:36 - INFO - Setting socket.userId = 101 for socket [id: RlBr6pyo7gC6FAwtAAAD] 
+10.5.2023, 19:05:52 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 19:05:52 - INFO - New connected socket [id: nDfV7Z682skVrgqrAAAF] 
+10.5.2023, 19:05:52 - INFO - Setting socket.userId = 101 for socket [id: nDfV7Z682skVrgqrAAAF] 
+10.5.2023, 19:27:38 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 19:27:39 - INFO - New connected socket [id: fvlGWcj_rA9ci_SXAAAH] 
+10.5.2023, 19:49:42 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 19:49:42 - INFO - New connected socket [id: 4yCm6GyrUaxRO5qZAAAJ] 
+10.5.2023, 19:49:43 - INFO - Setting socket.userId = 101 for socket [id: 4yCm6GyrUaxRO5qZAAAJ] 
+10.5.2023, 19:49:47 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 19:49:47 - INFO - New connected socket [id: -u0iXFsPYvSolDPDAAAL] 
+10.5.2023, 19:49:48 - INFO - Setting socket.userId = 101 for socket [id: -u0iXFsPYvSolDPDAAAL] 
+10.5.2023, 19:49:59 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 19:49:59 - INFO - New connected socket [id: rF7Pz7s2xapCh_m4AAAN] 
+10.5.2023, 19:49:59 - INFO - Setting socket.userId = 101 for socket [id: rF7Pz7s2xapCh_m4AAAN] 
+10.5.2023, 19:50:19 - DEBUG - auth.service - login with username: d (userId: 645c1c4502a28fa6c95fccf9)
+10.5.2023, 19:50:19 - INFO - User login:  | {"_id":"645286693cf1431dc48e756d","username":"d","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} (userId: 645c1c4502a28fa6c95fccf9)
+10.5.2023, 19:50:24 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 19:50:24 - INFO - New connected socket [id: wxy0vJHiuw0UJTaBAAAP] 
+10.5.2023, 19:50:24 - INFO - Setting socket.userId = 101 for socket [id: wxy0vJHiuw0UJTaBAAAP] 
+10.5.2023, 20:03:53 - INFO - Socket disconnected [id: undefined] 
+10.5.2023, 20:03:55 - INFO - New connected socket [id: aw9_BLoE_-L8Bi_NAAAR] 
+11.5.2023, 16:35:11 - INFO - Socket disconnected [id: undefined] 
+11.5.2023, 16:35:11 - INFO - New connected socket [id: qMJ0EfebvgEmFaHTAAAT] 
+11.5.2023, 16:35:12 - INFO - Setting socket.userId = 101 for socket [id: qMJ0EfebvgEmFaHTAAAT] 
+11.5.2023, 16:42:04 - INFO - Socket disconnected [id: undefined] 
+11.5.2023, 16:42:04 - INFO - New connected socket [id: lx9QJPMageTRdHEPAAAV] 
+11.5.2023, 16:42:05 - INFO - Setting socket.userId = 101 for socket [id: lx9QJPMageTRdHEPAAAV] 
+11.5.2023, 16:56:11 - INFO - Socket disconnected [id: undefined] 
+11.5.2023, 16:56:12 - INFO - New connected socket [id: Eh-JxfNTLyzVMd7GAAAX] 
+12.5.2023, 17:45:57 - INFO - Socket disconnected [id: undefined] 
+12.5.2023, 17:45:59 - INFO - New connected socket [id: bwiWaF4LpBmd4XRpAAAZ] 
+13.5.2023, 8:37:23 - INFO - User is typing from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:25 - INFO - User has stopped typing from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:26 - INFO - New chat msg from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:26 - INFO - User has stopped typing from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:30 - INFO - User is typing from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:32 - INFO - User has stopped typing from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:32 - INFO - New chat msg from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:32 - INFO - User has stopped typing from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:37 - INFO - User is typing from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:40 - INFO - New chat msg from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:37:40 - INFO - User has stopped typing from socket [id: bwiWaF4LpBmd4XRpAAAZ], emitting to topic picnic 
+13.5.2023, 8:48:05 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 8:48:06 - INFO - New connected socket [id: PXgma7-EgQF0PDJZAAAb] 
+13.5.2023, 14:52:51 - INFO - User is typing from socket [id: PXgma7-EgQF0PDJZAAAb], emitting to topic picnic 
+13.5.2023, 14:52:52 - INFO - New chat msg from socket [id: PXgma7-EgQF0PDJZAAAb], emitting to topic picnic 
+13.5.2023, 14:52:52 - INFO - User has stopped typing from socket [id: PXgma7-EgQF0PDJZAAAb], emitting to topic picnic 
+13.5.2023, 14:52:54 - INFO - User is typing from socket [id: PXgma7-EgQF0PDJZAAAb], emitting to topic picnic 
+13.5.2023, 14:52:55 - INFO - New chat msg from socket [id: PXgma7-EgQF0PDJZAAAb], emitting to topic picnic 
+13.5.2023, 14:52:55 - INFO - User has stopped typing from socket [id: PXgma7-EgQF0PDJZAAAb], emitting to topic picnic 
+13.5.2023, 15:10:47 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 15:10:50 - INFO - New connected socket [id: iO5KV4lBBgspdscYAAAd] 
+13.5.2023, 18:41:37 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 18:41:39 - INFO - New connected socket [id: mlRVLMavFeg-oDFOAAAf] 
+13.5.2023, 20:33:16 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:33:16 - INFO - New connected socket [id: jyZN_InTFlPRx30mAAAh] 
+13.5.2023, 20:33:17 - INFO - Setting socket.userId = 101 for socket [id: jyZN_InTFlPRx30mAAAh] 
+13.5.2023, 20:33:21 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:33:21 - INFO - New connected socket [id: eCKdOjQZvaKsJBXbAAAj] 
+13.5.2023, 20:33:22 - INFO - Setting socket.userId = 101 for socket [id: eCKdOjQZvaKsJBXbAAAj] 
+13.5.2023, 20:33:28 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:33:28 - INFO - New connected socket [id: 6bj2lMTnzHdJb6IAAAAl] 
+13.5.2023, 20:33:29 - INFO - Setting socket.userId = 101 for socket [id: 6bj2lMTnzHdJb6IAAAAl] 
+13.5.2023, 20:37:22 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:37:22 - INFO - New connected socket [id: U-rICosnQFmaDa5OAAAn] 
+13.5.2023, 20:37:23 - INFO - Setting socket.userId = 101 for socket [id: U-rICosnQFmaDa5OAAAn] 
+13.5.2023, 20:37:32 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:37:32 - INFO - New connected socket [id: 1Fz8joFUT089MztwAAAp] 
+13.5.2023, 20:37:33 - INFO - Setting socket.userId = 101 for socket [id: 1Fz8joFUT089MztwAAAp] 
+13.5.2023, 20:37:53 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:37:53 - INFO - New connected socket [id: 42Ht68G2iUjAf9stAAAr] 
+13.5.2023, 20:37:53 - INFO - Setting socket.userId = 101 for socket [id: 42Ht68G2iUjAf9stAAAr] 
+13.5.2023, 20:37:58 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:37:58 - INFO - New connected socket [id: G8WEgjOeAUu04UJPAAAt] 
+13.5.2023, 20:37:59 - INFO - Setting socket.userId = 101 for socket [id: G8WEgjOeAUu04UJPAAAt] 
+13.5.2023, 20:39:44 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:39:44 - INFO - New connected socket [id: W27OKEGJwP7IewfXAAAv] 
+13.5.2023, 20:39:44 - INFO - Setting socket.userId = 101 for socket [id: W27OKEGJwP7IewfXAAAv] 
+13.5.2023, 20:39:50 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:39:50 - INFO - New connected socket [id: j4SYmP82VzIf_tBxAAAx] 
+13.5.2023, 20:39:50 - INFO - Setting socket.userId = 101 for socket [id: j4SYmP82VzIf_tBxAAAx] 
+13.5.2023, 20:55:18 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 20:55:18 - INFO - New connected socket [id: HcMXNHNpw9wUjchzAAAz] 
+13.5.2023, 20:55:19 - INFO - Setting socket.userId = 101 for socket [id: HcMXNHNpw9wUjchzAAAz] 
+13.5.2023, 20:55:30 - DEBUG - auth.service - login with username: g 
+13.5.2023, 20:55:30 - INFO - User login:  | {"_id":"645286783cf1431dc48e756e","username":"g","fullname":"g","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+13.5.2023, 21:02:23 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 21:02:23 - INFO - New connected socket [id: Fyd2AJG3PJgKUButAAA1] 
+13.5.2023, 21:02:24 - INFO - Setting socket.userId = 101 for socket [id: Fyd2AJG3PJgKUButAAA1] 
+13.5.2023, 21:02:50 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 21:02:50 - INFO - New connected socket [id: zcu4NL5UGn4IbVJOAAA3] 
+13.5.2023, 21:02:51 - INFO - Setting socket.userId = 101 for socket [id: zcu4NL5UGn4IbVJOAAA3] 
+13.5.2023, 21:02:58 - DEBUG - auth.service - login with username: d (userId: 645286783cf1431dc48e756e)
+13.5.2023, 21:02:58 - INFO - User login:  | {"_id":"645286693cf1431dc48e756d","username":"d","fullname":"d","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} (userId: 645286783cf1431dc48e756e)
+13.5.2023, 21:03:00 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 21:03:01 - INFO - New connected socket [id: vSez9q1Icpe0ao_PAAA5] 
+13.5.2023, 21:03:01 - INFO - Setting socket.userId = 101 for socket [id: vSez9q1Icpe0ao_PAAA5] 
+13.5.2023, 21:04:05 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 21:04:05 - INFO - New connected socket [id: 9bxMVI5Dj_lZgkKuAAA7] 
+13.5.2023, 21:04:06 - INFO - Setting socket.userId = 101 for socket [id: 9bxMVI5Dj_lZgkKuAAA7] 
+13.5.2023, 21:04:09 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 21:04:09 - INFO - New connected socket [id: 7sIavizCGQ3gQ9KKAAA9] 
+13.5.2023, 21:04:10 - INFO - Setting socket.userId = 101 for socket [id: 7sIavizCGQ3gQ9KKAAA9] 
+13.5.2023, 21:15:13 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 21:15:13 - INFO - New connected socket [id: B_7Kv-p5MKeqtuo8AAA_] 
+13.5.2023, 21:15:13 - INFO - Setting socket.userId = 101 for socket [id: B_7Kv-p5MKeqtuo8AAA_] 
+13.5.2023, 21:31:37 - INFO - Socket disconnected [id: undefined] 
+13.5.2023, 21:31:37 - INFO - New connected socket [id: mIkaj1YQI8T72a1QAABB] 
+13.5.2023, 21:31:38 - INFO - Setting socket.userId = 101 for socket [id: mIkaj1YQI8T72a1QAABB] 
