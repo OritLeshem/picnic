@@ -2555,3 +2555,366 @@
 16.5.2023, 17:57:43 - INFO - Socket disconnected [id: undefined] 
 16.5.2023, 17:57:43 - INFO - New connected socket [id: 6_1Vh66JCQp9jXMZAACF] 
 16.5.2023, 17:57:44 - INFO - Setting socket.userId = 101 for socket [id: 6_1Vh66JCQp9jXMZAACF] 
+16.5.2023, 18:08:45 - DEBUG - auth.service - signup with username: tt, fullname: t 
+16.5.2023, 18:08:45 - DEBUG - auth.route - new account created: {"username":"tt","password":"$2b$10$iZL8Wt0e4QuGQju3cqIvQe93wxU/Tg2XkfZX/yewbrpyG1ReS3uxq","fullname":"t","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"6463feed987dc81683b92243"} 
+16.5.2023, 18:08:45 - DEBUG - auth.service - login with username: tt 
+16.5.2023, 18:08:45 - INFO - User signup: | {"_id":"6463feed987dc81683b92243","username":"tt","fullname":"t","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+16.5.2023, 18:08:50 - INFO - Socket disconnected [id: undefined] 
+16.5.2023, 18:08:50 - INFO - New connected socket [id: 9VHHZYObrcK9By1zAACH] 
+16.5.2023, 18:08:51 - INFO - Setting socket.userId = 101 for socket [id: 9VHHZYObrcK9By1zAACH] 
+16.5.2023, 18:19:18 - INFO - Socket disconnected [id: undefined] 
+16.5.2023, 18:19:18 - INFO - New connected socket [id: Bp1ljh0PQPeAPCdhAACJ] 
+16.5.2023, 22:14:36 - INFO - Socket disconnected [id: undefined] 
+16.5.2023, 22:14:38 - INFO - New connected socket [id: x7IrgiVE1FwijHPwAACL] 
+17.5.2023, 10:23:16 - INFO - Socket disconnected [id: undefined] 
+17.5.2023, 10:23:19 - INFO - New connected socket [id: DTNwITsezOC_RtlvAACN] 
+18.5.2023, 10:28:34 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 10:28:34 - INFO - New connected socket [id: AGVg8HuOgb7gsEDSAACP] 
+18.5.2023, 10:28:35 - INFO - Setting socket.userId = 101 for socket [id: AGVg8HuOgb7gsEDSAACP] 
+18.5.2023, 10:28:48 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 10:28:49 - INFO - New connected socket [id: yRUNFYBK-Nf_1LxwAACR] 
+18.5.2023, 10:28:49 - INFO - Setting socket.userId = 101 for socket [id: yRUNFYBK-Nf_1LxwAACR] 
+18.5.2023, 10:42:17 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 10:42:18 - INFO - New connected socket [id: FNXRJusjR5azQW6zAACT] 
+18.5.2023, 10:42:18 - INFO - Setting socket.userId = 101 for socket [id: FNXRJusjR5azQW6zAACT] 
+18.5.2023, 10:49:37 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 10:49:37 - INFO - New connected socket [id: I4TcxUUV21HZY6VfAACV] 
+18.5.2023, 10:49:38 - INFO - Setting socket.userId = 101 for socket [id: I4TcxUUV21HZY6VfAACV] 
+18.5.2023, 10:53:56 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 10:53:56 - INFO - New connected socket [id: HQGXf3eCOK6GnyyzAACX] 
+18.5.2023, 10:53:57 - INFO - Setting socket.userId = 101 for socket [id: HQGXf3eCOK6GnyyzAACX] 
+18.5.2023, 11:02:08 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:02:09 - INFO - New connected socket [id: eqSkUq7NX4-o4D_5AACZ] 
+18.5.2023, 11:02:09 - INFO - Setting socket.userId = 101 for socket [id: eqSkUq7NX4-o4D_5AACZ] 
+18.5.2023, 11:13:41 - INFO - User is typing from socket [id: eqSkUq7NX4-o4D_5AACZ], emitting to topic 1002 
+18.5.2023, 11:13:43 - INFO - New chat msg from socket [id: eqSkUq7NX4-o4D_5AACZ], emitting to topic 1002 
+18.5.2023, 11:13:43 - INFO - User has stopped typing from socket [id: eqSkUq7NX4-o4D_5AACZ], emitting to topic 1002 
+18.5.2023, 11:13:50 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:13:51 - INFO - New connected socket [id: UvBWxb7QQ828qVFrAACb] 
+18.5.2023, 11:13:51 - INFO - Setting socket.userId = 101 for socket [id: UvBWxb7QQ828qVFrAACb] 
+18.5.2023, 11:14:01 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:14:01 - INFO - New connected socket [id: R4ObZ_aQc4YI-C-TAACd] 
+18.5.2023, 11:14:01 - INFO - Setting socket.userId = 101 for socket [id: R4ObZ_aQc4YI-C-TAACd] 
+18.5.2023, 11:14:59 - INFO - Socket is leaving topic 1002 [id: R4ObZ_aQc4YI-C-TAACd] 
+18.5.2023, 11:15:44 - INFO - Socket is leaving topic picnic [id: R4ObZ_aQc4YI-C-TAACd] 
+18.5.2023, 11:15:46 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:15:46 - INFO - New connected socket [id: RxbE31s5hAVJB34wAACf] 
+18.5.2023, 11:15:47 - INFO - Setting socket.userId = 101 for socket [id: RxbE31s5hAVJB34wAACf] 
+18.5.2023, 11:23:43 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:23:43 - INFO - New connected socket [id: Fkyo3GO8u-AuaeGVAACh] 
+18.5.2023, 11:23:44 - INFO - Setting socket.userId = 101 for socket [id: Fkyo3GO8u-AuaeGVAACh] 
+18.5.2023, 11:23:47 - INFO - User is typing from socket [id: Fkyo3GO8u-AuaeGVAACh], emitting to topic 1002 
+18.5.2023, 11:23:48 - INFO - New chat msg from socket [id: Fkyo3GO8u-AuaeGVAACh], emitting to topic 1002 
+18.5.2023, 11:23:48 - INFO - User has stopped typing from socket [id: Fkyo3GO8u-AuaeGVAACh], emitting to topic 1002 
+18.5.2023, 11:28:20 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:28:21 - INFO - New connected socket [id: JHmnNjLp9JwFYL5LAACj] 
+18.5.2023, 11:28:21 - INFO - Setting socket.userId = 101 for socket [id: JHmnNjLp9JwFYL5LAACj] 
+18.5.2023, 11:28:32 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:28:32 - INFO - New connected socket [id: GeUt-kccsIuMQ8TWAACl] 
+18.5.2023, 11:28:33 - INFO - Setting socket.userId = 101 for socket [id: GeUt-kccsIuMQ8TWAACl] 
+18.5.2023, 11:33:32 - INFO - User is typing from socket [id: GeUt-kccsIuMQ8TWAACl], emitting to topic 1002 
+18.5.2023, 11:33:34 - INFO - New chat msg from socket [id: GeUt-kccsIuMQ8TWAACl], emitting to topic 1002 
+18.5.2023, 11:33:34 - INFO - User has stopped typing from socket [id: GeUt-kccsIuMQ8TWAACl], emitting to topic 1002 
+18.5.2023, 11:35:04 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:35:05 - INFO - New connected socket [id: dM9ArLmfSk2qS1SLAACn] 
+18.5.2023, 11:35:05 - INFO - Setting socket.userId = 101 for socket [id: dM9ArLmfSk2qS1SLAACn] 
+18.5.2023, 11:35:07 - INFO - User is typing from socket [id: dM9ArLmfSk2qS1SLAACn], emitting to topic 1002 
+18.5.2023, 11:35:08 - INFO - New chat msg from socket [id: dM9ArLmfSk2qS1SLAACn], emitting to topic 1002 
+18.5.2023, 11:35:08 - INFO - User has stopped typing from socket [id: dM9ArLmfSk2qS1SLAACn], emitting to topic 1002 
+18.5.2023, 11:40:03 - INFO - New connected socket [id: igge8sYuFtVSMGTMAACp] 
+18.5.2023, 11:40:04 - INFO - Setting socket.userId = 101 for socket [id: igge8sYuFtVSMGTMAACp] 
+18.5.2023, 11:43:36 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:43:36 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:43:36 - INFO - New connected socket [id: IvVRqAe8RwPTcu-1AACr] 
+18.5.2023, 11:43:36 - INFO - Setting socket.userId = 101 for socket [id: IvVRqAe8RwPTcu-1AACr] 
+18.5.2023, 11:43:40 - INFO - User is typing from socket [id: IvVRqAe8RwPTcu-1AACr], emitting to topic 1002 
+18.5.2023, 11:43:42 - INFO - New chat msg from socket [id: IvVRqAe8RwPTcu-1AACr], emitting to topic 1002 
+18.5.2023, 11:43:42 - INFO - User has stopped typing from socket [id: IvVRqAe8RwPTcu-1AACr], emitting to topic 1002 
+18.5.2023, 11:44:14 - INFO - User is typing from socket [id: IvVRqAe8RwPTcu-1AACr], emitting to topic 1002 
+18.5.2023, 11:44:15 - INFO - New chat msg from socket [id: IvVRqAe8RwPTcu-1AACr], emitting to topic 1002 
+18.5.2023, 11:44:15 - INFO - User has stopped typing from socket [id: IvVRqAe8RwPTcu-1AACr], emitting to topic 1002 
+18.5.2023, 11:46:13 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:46:14 - INFO - New connected socket [id: V-20fbGT_5BPUNhWAACt] 
+18.5.2023, 11:46:14 - INFO - Setting socket.userId = 101 for socket [id: V-20fbGT_5BPUNhWAACt] 
+18.5.2023, 11:46:16 - INFO - User is typing from socket [id: V-20fbGT_5BPUNhWAACt], emitting to topic 1002 
+18.5.2023, 11:46:18 - INFO - New chat msg from socket [id: V-20fbGT_5BPUNhWAACt], emitting to topic 1002 
+18.5.2023, 11:46:18 - INFO - User has stopped typing from socket [id: V-20fbGT_5BPUNhWAACt], emitting to topic 1002 
+18.5.2023, 11:46:19 - INFO - User is typing from socket [id: V-20fbGT_5BPUNhWAACt], emitting to topic 1002 
+18.5.2023, 11:46:21 - INFO - New chat msg from socket [id: V-20fbGT_5BPUNhWAACt], emitting to topic 1002 
+18.5.2023, 11:46:21 - INFO - User has stopped typing from socket [id: V-20fbGT_5BPUNhWAACt], emitting to topic 1002 
+18.5.2023, 11:46:31 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:46:32 - INFO - New connected socket [id: 9UHKwAwyyiqJa1RIAACv] 
+18.5.2023, 11:46:32 - INFO - Setting socket.userId = 101 for socket [id: 9UHKwAwyyiqJa1RIAACv] 
+18.5.2023, 11:48:35 - INFO - User is typing from socket [id: 9UHKwAwyyiqJa1RIAACv], emitting to topic 1002 
+18.5.2023, 11:48:36 - INFO - New chat msg from socket [id: 9UHKwAwyyiqJa1RIAACv], emitting to topic 1002 
+18.5.2023, 11:48:36 - INFO - User has stopped typing from socket [id: 9UHKwAwyyiqJa1RIAACv], emitting to topic 1002 
+18.5.2023, 11:48:37 - INFO - User has stopped typing from socket [id: 9UHKwAwyyiqJa1RIAACv], emitting to topic 1002 
+18.5.2023, 11:48:38 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:48:38 - INFO - New connected socket [id: 3nFXU_tw-buMg8QJAACx] 
+18.5.2023, 11:48:39 - INFO - Setting socket.userId = 101 for socket [id: 3nFXU_tw-buMg8QJAACx] 
+18.5.2023, 11:48:41 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:48:43 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:48:43 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:48:44 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:48:51 - INFO - Socket is leaving topic 1002 [id: 3nFXU_tw-buMg8QJAACx] 
+18.5.2023, 11:48:57 - INFO - Socket is leaving topic 1001 [id: 3nFXU_tw-buMg8QJAACx] 
+18.5.2023, 11:50:11 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:12 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:12 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:13 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:14 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:15 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:15 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:16 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:41 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:43 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:43 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:44 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:52 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:53 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:53 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:50:54 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:51:51 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:51:53 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:51:53 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:51:53 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:51:58 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:00 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:00 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:00 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:13 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:14 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:14 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:15 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:15 - INFO - User is typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:17 - INFO - New chat msg from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:17 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:17 - INFO - User has stopped typing from socket [id: 3nFXU_tw-buMg8QJAACx], emitting to topic 1002 
+18.5.2023, 11:52:19 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:52:19 - INFO - New connected socket [id: 4IfKK7Sp8AnTElMeAACz] 
+18.5.2023, 11:52:20 - INFO - Setting socket.userId = 101 for socket [id: 4IfKK7Sp8AnTElMeAACz] 
+18.5.2023, 11:54:32 - INFO - User is typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:34 - INFO - New chat msg from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:34 - INFO - User has stopped typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:34 - INFO - User has stopped typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:37 - INFO - User is typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:39 - INFO - New chat msg from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:39 - INFO - User has stopped typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:40 - INFO - User has stopped typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:58 - INFO - User is typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:59 - INFO - New chat msg from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:54:59 - INFO - User has stopped typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:55:00 - INFO - User has stopped typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:55:01 - INFO - User is typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:55:03 - INFO - New chat msg from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:55:03 - INFO - User has stopped typing from socket [id: 4IfKK7Sp8AnTElMeAACz], emitting to topic 1002 
+18.5.2023, 11:55:06 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:55:06 - INFO - New connected socket [id: ULFzQYGSb3b__dVZAAC1] 
+18.5.2023, 11:55:06 - INFO - Setting socket.userId = 101 for socket [id: ULFzQYGSb3b__dVZAAC1] 
+18.5.2023, 11:55:40 - INFO - Socket is leaving topic 1002 [id: ULFzQYGSb3b__dVZAAC1] 
+18.5.2023, 11:55:46 - INFO - Socket is leaving topic 1001 [id: ULFzQYGSb3b__dVZAAC1] 
+18.5.2023, 11:55:54 - INFO - Socket is leaving topic 1002 [id: ULFzQYGSb3b__dVZAAC1] 
+18.5.2023, 11:56:35 - INFO - New connected socket [id: EQubr-PEtUhddw1vAAC3] 
+18.5.2023, 11:56:35 - INFO - Setting socket.userId = 101 for socket [id: EQubr-PEtUhddw1vAAC3] 
+18.5.2023, 11:56:44 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:56:49 - INFO - New connected socket [id: wWnbrrXqlM4_GWmiAAC5] 
+18.5.2023, 11:56:49 - INFO - Setting socket.userId = 101 for socket [id: wWnbrrXqlM4_GWmiAAC5] 
+18.5.2023, 11:56:55 - DEBUG - auth.service - login with username: Glory 
+18.5.2023, 11:56:55 - INFO - User login:  | {"_id":"645286783cf1431dc48e756e","username":"Glory","fullname":"Glory Fun","imgUrl":"https://cdn.pixabay.com/photo/2018/03/06/22/57/portrait-3204843_960_720.jpg","score":100} 
+18.5.2023, 11:57:02 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:57:02 - INFO - New connected socket [id: cMi3jYrULCi0S7KkAAC7] 
+18.5.2023, 11:57:02 - INFO - Setting socket.userId = 101 for socket [id: cMi3jYrULCi0S7KkAAC7] 
+18.5.2023, 11:57:11 - INFO - User is typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:13 - INFO - User has stopped typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:15 - INFO - User is typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:22 - INFO - New chat msg from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:22 - INFO - User has stopped typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:38 - INFO - Socket is leaving topic 1001 [id: ULFzQYGSb3b__dVZAAC1] 
+18.5.2023, 11:57:44 - INFO - User is typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:45 - INFO - New chat msg from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:45 - INFO - User has stopped typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:46 - INFO - User has stopped typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:48 - INFO - User is typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:49 - INFO - New chat msg from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:49 - INFO - User has stopped typing from socket [id: cMi3jYrULCi0S7KkAAC7], emitting to topic 1002 
+18.5.2023, 11:57:54 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:57:54 - INFO - New connected socket [id: n7Tuzy3LxDJZQhJyAAC9] 
+18.5.2023, 11:57:55 - INFO - Setting socket.userId = 101 for socket [id: n7Tuzy3LxDJZQhJyAAC9] 
+18.5.2023, 11:58:07 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 11:58:08 - INFO - New connected socket [id: BDAHx4ohlsmReMnAAAC_] 
+18.5.2023, 11:58:08 - INFO - Setting socket.userId = 101 for socket [id: BDAHx4ohlsmReMnAAAC_] 
+18.5.2023, 12:00:13 - INFO - User is typing from socket [id: n7Tuzy3LxDJZQhJyAAC9], emitting to topic 1002 
+18.5.2023, 12:00:16 - INFO - New chat msg from socket [id: n7Tuzy3LxDJZQhJyAAC9], emitting to topic 1002 
+18.5.2023, 12:00:16 - INFO - User has stopped typing from socket [id: n7Tuzy3LxDJZQhJyAAC9], emitting to topic 1002 
+18.5.2023, 12:00:17 - INFO - User has stopped typing from socket [id: n7Tuzy3LxDJZQhJyAAC9], emitting to topic 1002 
+18.5.2023, 12:00:22 - INFO - User is typing from socket [id: BDAHx4ohlsmReMnAAAC_], emitting to topic 1002 
+18.5.2023, 12:00:26 - INFO - User has stopped typing from socket [id: BDAHx4ohlsmReMnAAAC_], emitting to topic 1002 
+18.5.2023, 12:00:27 - INFO - New chat msg from socket [id: BDAHx4ohlsmReMnAAAC_], emitting to topic 1002 
+18.5.2023, 12:00:27 - INFO - User has stopped typing from socket [id: BDAHx4ohlsmReMnAAAC_], emitting to topic 1002 
+18.5.2023, 12:00:45 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 12:00:46 - INFO - New connected socket [id: Yvpg1xomXGS0F9XRAADB] 
+18.5.2023, 12:00:46 - INFO - Setting socket.userId = 101 for socket [id: Yvpg1xomXGS0F9XRAADB] 
+18.5.2023, 12:00:57 - INFO - User is typing from socket [id: BDAHx4ohlsmReMnAAAC_], emitting to topic 1002 
+18.5.2023, 12:01:00 - INFO - User has stopped typing from socket [id: BDAHx4ohlsmReMnAAAC_], emitting to topic 1002 
+18.5.2023, 12:01:00 - INFO - New chat msg from socket [id: BDAHx4ohlsmReMnAAAC_], emitting to topic 1002 
+18.5.2023, 12:01:00 - INFO - User has stopped typing from socket [id: BDAHx4ohlsmReMnAAAC_], emitting to topic 1002 
+18.5.2023, 12:01:25 - INFO - User is typing from socket [id: Yvpg1xomXGS0F9XRAADB], emitting to topic 1002 
+18.5.2023, 12:01:27 - INFO - New chat msg from socket [id: Yvpg1xomXGS0F9XRAADB], emitting to topic 1002 
+18.5.2023, 12:01:27 - INFO - User has stopped typing from socket [id: Yvpg1xomXGS0F9XRAADB], emitting to topic 1002 
+18.5.2023, 12:01:27 - INFO - User has stopped typing from socket [id: Yvpg1xomXGS0F9XRAADB], emitting to topic 1002 
+18.5.2023, 12:01:57 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 12:01:58 - INFO - New connected socket [id: vSbpjweGxJPJ9xF2AADD] 
+18.5.2023, 12:01:58 - INFO - Setting socket.userId = 101 for socket [id: vSbpjweGxJPJ9xF2AADD] 
+18.5.2023, 12:02:03 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 12:02:03 - INFO - New connected socket [id: bZET9CdDIgkaPgb1AADF] 
+18.5.2023, 12:02:03 - INFO - Setting socket.userId = 101 for socket [id: bZET9CdDIgkaPgb1AADF] 
+18.5.2023, 12:03:14 - INFO - User is typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:03:16 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:03:17 - INFO - New chat msg from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:03:17 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:04:56 - INFO - User is typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:04:58 - INFO - New chat msg from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:04:58 - INFO - User has stopped typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:04:59 - INFO - User has stopped typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:05:12 - INFO - User is typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:05:15 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:05:15 - INFO - New chat msg from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:05:15 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:06:10 - INFO - User is typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:06:12 - INFO - New chat msg from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:06:12 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:06:12 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:06:21 - INFO - User is typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:06:22 - INFO - New chat msg from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:06:22 - INFO - User has stopped typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:06:23 - INFO - User has stopped typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:06:56 - INFO - User is typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:06:58 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:06:58 - INFO - New chat msg from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:06:58 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:07:43 - INFO - User is typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:07:45 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:07:47 - INFO - User is typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:07:49 - INFO - New chat msg from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:07:49 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:07:50 - INFO - User has stopped typing from socket [id: vSbpjweGxJPJ9xF2AADD], emitting to topic 1002 
+18.5.2023, 12:07:58 - INFO - User is typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:08:01 - INFO - User has stopped typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:08:01 - INFO - New chat msg from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:08:01 - INFO - User has stopped typing from socket [id: bZET9CdDIgkaPgb1AADF], emitting to topic 1002 
+18.5.2023, 12:08:07 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 12:08:07 - INFO - New connected socket [id: gxZoD14Eo5_IE9RrAADH] 
+18.5.2023, 12:08:08 - INFO - Setting socket.userId = 101 for socket [id: gxZoD14Eo5_IE9RrAADH] 
+18.5.2023, 12:08:16 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 12:08:16 - INFO - New connected socket [id: vZztdCsZr5tAK3oYAADJ] 
+18.5.2023, 12:08:17 - INFO - Setting socket.userId = 101 for socket [id: vZztdCsZr5tAK3oYAADJ] 
+18.5.2023, 12:09:14 - INFO - User is typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:09:18 - INFO - New chat msg from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:09:18 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:09:19 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:09:25 - INFO - User is typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:09:28 - INFO - New chat msg from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:09:28 - INFO - User has stopped typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:09:29 - INFO - User has stopped typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:09:35 - INFO - User is typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:09:37 - INFO - New chat msg from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:09:37 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:09:38 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:12:25 - INFO - User is typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:12:28 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:12:32 - INFO - New chat msg from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:12:32 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:12:35 - INFO - User is typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:12:38 - INFO - New chat msg from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:12:38 - INFO - User has stopped typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:12:39 - INFO - User has stopped typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:13:58 - INFO - User is typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:14:00 - INFO - New chat msg from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:14:00 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:14:00 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:14:04 - INFO - User is typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:14:06 - INFO - User has stopped typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:14:07 - INFO - New chat msg from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:14:07 - INFO - User has stopped typing from socket [id: gxZoD14Eo5_IE9RrAADH], emitting to topic 1002 
+18.5.2023, 12:16:04 - INFO - User is typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:16:05 - INFO - New chat msg from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:16:05 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:16:06 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:16:56 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 12:16:56 - INFO - New connected socket [id: n8JpiCkT-yUhmIWgAADL] 
+18.5.2023, 12:16:57 - INFO - Setting socket.userId = 101 for socket [id: n8JpiCkT-yUhmIWgAADL] 
+18.5.2023, 12:17:17 - INFO - Socket is leaving topic 1002 [id: n8JpiCkT-yUhmIWgAADL] 
+18.5.2023, 12:17:23 - INFO - Socket is leaving topic 1001 [id: n8JpiCkT-yUhmIWgAADL] 
+18.5.2023, 12:18:37 - INFO - User is typing from socket [id: n8JpiCkT-yUhmIWgAADL], emitting to topic 1002 
+18.5.2023, 12:18:40 - INFO - User has stopped typing from socket [id: n8JpiCkT-yUhmIWgAADL], emitting to topic 1002 
+18.5.2023, 12:18:41 - INFO - New chat msg from socket [id: n8JpiCkT-yUhmIWgAADL], emitting to topic 1002 
+18.5.2023, 12:18:41 - INFO - User has stopped typing from socket [id: n8JpiCkT-yUhmIWgAADL], emitting to topic 1002 
+18.5.2023, 12:18:49 - INFO - User is typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:18:51 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:18:51 - INFO - New chat msg from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:18:51 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:19:06 - INFO - User is typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:19:08 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:19:10 - INFO - New chat msg from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:19:10 - INFO - User has stopped typing from socket [id: vZztdCsZr5tAK3oYAADJ], emitting to topic 1002 
+18.5.2023, 12:19:18 - INFO - User is typing from socket [id: n8JpiCkT-yUhmIWgAADL], emitting to topic 1002 
+18.5.2023, 12:19:20 - INFO - New chat msg from socket [id: n8JpiCkT-yUhmIWgAADL], emitting to topic 1002 
+18.5.2023, 12:19:20 - INFO - User has stopped typing from socket [id: n8JpiCkT-yUhmIWgAADL], emitting to topic 1002 
+18.5.2023, 12:19:20 - INFO - User has stopped typing from socket [id: n8JpiCkT-yUhmIWgAADL], emitting to topic 1002 
+18.5.2023, 12:30:10 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 12:30:11 - INFO - New connected socket [id: 4KlZ1iSAnb4AtdrqAADN] 
+18.5.2023, 13:03:02 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 13:03:02 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 13:03:04 - INFO - New connected socket [id: J5KxYQI576p293H8AADP] 
+18.5.2023, 13:03:04 - INFO - New connected socket [id: 2bjyNlwMA8sIds5bAADR] 
+18.5.2023, 13:37:24 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 13:37:24 - INFO - Socket disconnected [id: undefined] 
+18.5.2023, 13:37:25 - INFO - New connected socket [id: 5zmiFC0NJY9PnJGhAADT] 
+18.5.2023, 13:37:25 - INFO - New connected socket [id: HLwvGYjJuIhM70zbAADV] 
+18.5.2023, 18:22:39 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:22:42 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:22:42 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:22:42 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:25:00 - INFO - Socket is leaving topic 1002 [id: 5zmiFC0NJY9PnJGhAADT] 
+18.5.2023, 18:25:00 - INFO - Socket is leaving topic 1002 [id: HLwvGYjJuIhM70zbAADV] 
+18.5.2023, 18:25:03 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic picnic 
+18.5.2023, 18:25:05 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic picnic 
+18.5.2023, 18:25:05 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic picnic 
+18.5.2023, 18:26:32 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic picnic 
+18.5.2023, 18:26:33 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic picnic 
+18.5.2023, 18:26:33 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic picnic 
+18.5.2023, 18:27:13 - INFO - Socket is leaving topic picnic [id: 5zmiFC0NJY9PnJGhAADT] 
+18.5.2023, 18:27:13 - INFO - Socket is leaving topic picnic [id: HLwvGYjJuIhM70zbAADV] 
+18.5.2023, 18:27:17 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:27:18 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:27:19 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:27:19 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:27:44 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:27:46 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:27:46 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:27:46 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:35:01 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:35:03 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:35:03 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:35:03 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:36:35 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:36:37 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:37:12 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:37:14 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:37:14 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:37:14 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:39:53 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:39:56 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:39:56 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:39:56 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:43:26 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:43:28 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:43:29 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:43:39 - INFO - User is typing from socket [id: HLwvGYjJuIhM70zbAADV], emitting to topic 1002 
+18.5.2023, 18:43:41 - INFO - User has stopped typing from socket [id: HLwvGYjJuIhM70zbAADV], emitting to topic 1002 
+18.5.2023, 18:43:41 - INFO - User is typing from socket [id: HLwvGYjJuIhM70zbAADV], emitting to topic 1002 
+18.5.2023, 18:43:43 - INFO - User has stopped typing from socket [id: HLwvGYjJuIhM70zbAADV], emitting to topic 1002 
+18.5.2023, 18:43:43 - INFO - New chat msg from socket [id: HLwvGYjJuIhM70zbAADV], emitting to topic 1002 
+18.5.2023, 18:43:47 - INFO - User is typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:43:49 - INFO - User has stopped typing from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
+18.5.2023, 18:43:51 - INFO - New chat msg from socket [id: 5zmiFC0NJY9PnJGhAADT], emitting to topic 1002 
