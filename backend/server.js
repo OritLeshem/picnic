@@ -25,18 +25,22 @@ const authRoutes = require('./api/auth/auth.routes')
 const userRoutes = require('./api/user/user.routes')
 const reviewRoutes = require('./api/review/review.routes')
 const carRoutes = require('./api/car/car.routes')
+const gatherRoutes = require('./api/gather/gather.routes')
+
 // const { setupSocketAPI } = require('./services/socket.service')
 const { setupSocketAPI } = require('./services/socket.service-copy')
 
 
 // routes
 const setupAsyncLocalStorage = require('./middlewares/setupAls.middleware')
-app.all('*', setupAsyncLocalStorage)
+// app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/review', reviewRoutes)
 app.use('/api/car', carRoutes)
+app.use('/api/gather', gatherRoutes)
+
 setupSocketAPI(http)
 
 // Make every server-side-route to match the index.html
