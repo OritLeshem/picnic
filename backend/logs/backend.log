@@ -6363,3 +6363,162 @@
 27.6.2023, 9:49:06 - DEBUG - Getting Gathers 
 27.6.2023, 9:49:16 - DEBUG - Getting Gathers 
 27.6.2023, 9:49:20 - DEBUG - Getting Gathers 
+27.6.2023, 9:50:49 - DEBUG - Getting Gathers 
+27.6.2023, 9:51:40 - DEBUG - Getting Gathers 
+27.6.2023, 9:52:04 - DEBUG - Getting Gathers 
+27.6.2023, 9:52:05 - DEBUG - Getting Gathers 
+27.6.2023, 9:52:08 - DEBUG - Getting Gathers 
+27.6.2023, 9:52:09 - DEBUG - Getting Gathers 
+27.6.2023, 9:53:34 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:03 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:07 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:09 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:14 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:40 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:40 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:44 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 9:54:44 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 9:54:44 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 9:54:44 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 9:54:44 - INFO - New connected socket [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 9:54:45 - INFO - Setting socket.userId = 101 for socket [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 9:54:46 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:48 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:57 - DEBUG - Getting Gathers 
+27.6.2023, 9:54:59 - DEBUG - Getting Gathers 
+27.6.2023, 9:55:54 - DEBUG - Getting Gathers 
+27.6.2023, 9:56:01 - DEBUG - Getting Gathers 
+27.6.2023, 9:56:04 - DEBUG - Getting Gathers 
+27.6.2023, 9:57:31 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:15 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:15 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:26 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:26 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:26 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:31 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:31 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:31 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:35 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:35 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:35 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:41 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:44 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:48 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:48 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:48 - DEBUG - Getting Gathers 
+27.6.2023, 10:00:50 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:50 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:00:50 - DEBUG - Getting Gathers 
+27.6.2023, 10:02:31 - DEBUG - Getting Gathers 
+27.6.2023, 10:02:34 - INFO - Socket is leaving topic undefined [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 10:02:34 - DEBUG - Getting Gathers 
+27.6.2023, 10:09:37 - DEBUG - Getting Gathers 
+27.6.2023, 10:09:37 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:37 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:42 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:42 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:42 - DEBUG - Getting Gathers 
+27.6.2023, 10:09:50 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:50 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:50 - DEBUG - Getting Gathers 
+27.6.2023, 10:09:53 - INFO - Socket is leaving topic 64710aa05747121453698c43 [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 10:09:53 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:53 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:53 - DEBUG - Getting Gathers 
+27.6.2023, 10:09:55 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:55 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:55 - DEBUG - Getting Gathers 
+27.6.2023, 10:09:57 - DEBUG - Getting Gathers 
+27.6.2023, 10:09:57 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:09:57 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:10:03 - DEBUG - Getting Gathers 
+27.6.2023, 10:10:06 - DEBUG - Getting Gathers 
+27.6.2023, 10:10:31 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:10:31 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:10:31 - DEBUG - Getting Gathers 
+27.6.2023, 10:10:38 - DEBUG - Getting Gathers 
+27.6.2023, 10:10:39 - DEBUG - Getting Gathers 
+27.6.2023, 10:10:46 - DEBUG - Getting Gathers 
+27.6.2023, 10:10:46 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:10:46 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:15:14 - DEBUG - Getting Gathers 
+27.6.2023, 10:15:17 - DEBUG - Getting Gathers 
+27.6.2023, 10:15:23 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:15:23 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:15:23 - DEBUG - Getting Gathers 
+27.6.2023, 10:15:50 - INFO - user-watch from socket [id: Ju3tXOCFeEdIdPmuAACJ], on user 645286693cf1431dc48e756d 
+27.6.2023, 10:16:04 - DEBUG - Getting Gathers 
+27.6.2023, 10:16:19 - DEBUG - Getting Gathers 
+27.6.2023, 10:17:05 - INFO - Socket is leaving topic undefined [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 10:17:05 - DEBUG - Getting Gathers 
+27.6.2023, 10:17:13 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:17:13 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:17:13 - DEBUG - Getting Gathers 
+27.6.2023, 10:17:17 - DEBUG - Getting Gathers 
+27.6.2023, 10:17:17 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:17:17 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 10:22:28 - DEBUG - Getting Gathers 
+27.6.2023, 10:22:30 - DEBUG - Getting Gathers 
+27.6.2023, 10:22:39 - DEBUG - Getting Gathers 
+27.6.2023, 10:22:41 - INFO - user-watch from socket [id: Ju3tXOCFeEdIdPmuAACJ], on user 645286693cf1431dc48e756d 
+27.6.2023, 10:22:46 - DEBUG - Getting Gathers 
+27.6.2023, 10:22:50 - DEBUG - Getting Gathers 
+27.6.2023, 10:23:01 - INFO - user-watch from socket [id: Ju3tXOCFeEdIdPmuAACJ], on user 645286693cf1431dc48e756d 
+27.6.2023, 10:28:10 - DEBUG - Getting Gathers 
+27.6.2023, 10:28:13 - DEBUG - Getting Gathers 
+27.6.2023, 10:32:51 - DEBUG - Getting Gathers 
+27.6.2023, 10:32:52 - DEBUG - Getting Gathers 
+27.6.2023, 10:33:43 - DEBUG - Getting Gathers 
+27.6.2023, 10:33:47 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 10:33:47 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 10:33:47 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 10:33:47 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 10:33:47 - INFO - New connected socket [id: tUqJTY0NDybvwy10AACL] 
+27.6.2023, 10:33:48 - INFO - Setting socket.userId = 101 for socket [id: tUqJTY0NDybvwy10AACL] 
+27.6.2023, 10:33:59 - INFO - user-watch from socket [id: tUqJTY0NDybvwy10AACL], on user 645286783cf1431dc48e756e 
+27.6.2023, 10:39:45 - DEBUG - Getting Gathers 
+27.6.2023, 10:39:47 - DEBUG - Getting Gathers 
+27.6.2023, 10:42:07 - DEBUG - Getting Gathers 
+27.6.2023, 10:42:07 - DEBUG - Getting Gathers 
+27.6.2023, 10:42:28 - INFO - user-watch from socket [id: Ju3tXOCFeEdIdPmuAACJ], on user 645286693cf1431dc48e756d 
+27.6.2023, 10:42:36 - DEBUG - Getting Gathers 
+27.6.2023, 10:42:37 - DEBUG - Getting Gathers 
+27.6.2023, 10:42:40 - INFO - user-watch from socket [id: Ju3tXOCFeEdIdPmuAACJ], on user 645286693cf1431dc48e756d 
+27.6.2023, 10:45:41 - DEBUG - Getting Gathers 
+27.6.2023, 10:46:46 - DEBUG - Getting Gathers 
+27.6.2023, 10:47:37 - DEBUG - Getting Gathers 
+27.6.2023, 10:47:37 - DEBUG - Getting Gathers 
+27.6.2023, 10:48:23 - DEBUG - Getting Gathers 
+27.6.2023, 10:56:00 - INFO - Socket is leaving topic 64710aa05747121453698c43 [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 10:56:00 - DEBUG - Getting Gathers 
+27.6.2023, 10:58:52 - DEBUG - Getting Gathers 
+27.6.2023, 10:58:54 - DEBUG - Getting Gathers 
+27.6.2023, 10:58:57 - DEBUG - Getting Gathers 
+27.6.2023, 10:59:13 - INFO - Socket is leaving topic 64710b1a5747121453698c44 [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 10:59:13 - DEBUG - Getting Gathers 
+27.6.2023, 10:59:16 - DEBUG - Getting Gathers 
+27.6.2023, 10:59:18 - DEBUG - Getting Gathers 
+27.6.2023, 10:59:19 - DEBUG - Getting Gathers 
+27.6.2023, 11:02:32 - DEBUG - Getting Gathers 
+27.6.2023, 11:02:44 - DEBUG - Getting Gathers 
+27.6.2023, 11:02:47 - DEBUG - Getting Gathers 
+27.6.2023, 11:02:49 - DEBUG - Getting Gathers 
+27.6.2023, 11:02:52 - INFO - User is typing from socket [id: Ju3tXOCFeEdIdPmuAACJ], emitting to topic 64710aa05747121453698c43 
+27.6.2023, 11:02:53 - INFO - New chat msg from socket [id: Ju3tXOCFeEdIdPmuAACJ], emitting to topic 64710aa05747121453698c43 
+27.6.2023, 11:02:58 - DEBUG - Getting Gathers 
+27.6.2023, 11:03:11 - DEBUG - Getting Gathers 
+27.6.2023, 11:03:11 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 11:03:11 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 11:03:15 - DEBUG - Getting Gathers 
+27.6.2023, 11:03:40 - DEBUG - Getting Gathers 
+27.6.2023, 11:03:40 - ERROR - Failed to get gather | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 11:03:40 - ERROR - while finding gather undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+27.6.2023, 11:03:45 - DEBUG - Getting Gathers 
+27.6.2023, 11:03:46 - DEBUG - Getting Gathers 
+27.6.2023, 11:04:40 - DEBUG - Getting Gathers 
+27.6.2023, 11:11:23 - DEBUG - Getting Gathers 
+27.6.2023, 11:11:33 - DEBUG - Getting Gathers 
+27.6.2023, 11:11:44 - DEBUG - Getting Gathers 
+27.6.2023, 11:11:46 - DEBUG - Getting Gathers 
+27.6.2023, 11:11:47 - DEBUG - Getting Gathers 
+27.6.2023, 11:11:49 - DEBUG - Getting Gathers 
