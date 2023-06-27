@@ -15,42 +15,42 @@ function setupSocketAPI(http) {
         })
 
         // Join socket to a room
-        socket.on('set-chat-topic', toyId => {
-            console.log('got new topic', toyId);
-            if (socket.toyId === toyId) return;
-            if (socket.toyId) {
-                // When visiting another toy, remove the prev "room"
-                socket.leave(socket.toyId)
-                logger.info(`Socket is leaving topic ${socket.toyId} [id: ${socket.id}]`)
+        socket.on('set-chat-topic', gatherId => {
+            console.log('got new topic', gatherId);
+            if (socket.gatherId === gatherId) return;
+            if (socket.gatherId) {
+                // When visiting another gather, remove the prev "room"
+                socket.leave(socket.gatherId)
+                logger.info(`Socket is leaving topic ${socket.gatherId} [id: ${socket.id}]`)
             }
-            socket.join(toyId)
+            socket.join(gatherId)
             // save the toyid on this specific user socket for later use.
-            socket.toyId = toyId
+            socket.gatherId = gatherId
         })
 
         // Join socket to a room
         socket.on('chat-new-msg', msg => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.toyId}`)
+            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.gatherId}`)
 
             // BONUS
-            // toyService.addMsgToChat(msg, socket.toyId)
+            // toyService.addMsgToChat(msg, socket.gatherId)
 
             // emits to all sockets:
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
-            gIo.to(socket.toyId).emit('chat-add-msg', msg)
+            gIo.to(socket.gatherId).emit('chat-add-msg', msg)
         })
 
         socket.on('chat-user-typing', user => {
-            logger.info(`User is typing from socket [id: ${socket.id}], emitting to topic ${socket.toyId}`)
-            socket.broadcast.to(socket.toyId).emit('chat-add-typing', user)
-            // broadcast({ type: 'chat typing', data: user, room: socket.toyId, userId: socket.userId })
+            logger.info(`User is typing from socket [id: ${socket.id}], emitting to topic ${socket.gatherId}`)
+            socket.broadcast.to(socket.gatherId).emit('chat-add-typing', user)
+            // broadcast({ type: 'chat typing', data: user, room: socket.gatherId, userId: socket.userId })
         })
 
         socket.on('chat-stop-typing', user => {
-            logger.info(`User has stopped typing from socket [id: ${socket.id}], emitting to topic ${socket.toyId}`)
-            socket.broadcast.to(socket.toyId).emit('chat-remove-typing', user)
-            // broadcast({ type: 'chat stop-typing', data: user, room: socket.toyId, userId: socket.userId })
+            logger.info(`User has stopped typing from socket [id: ${socket.id}], emitting to topic ${socket.gatherId}`)
+            socket.broadcast.to(socket.gatherId).emit('chat-remove-typing', user)
+            // broadcast({ type: 'chat stop-typing', data: user, room: socket.gatherId, userId: socket.userId })
         })
 
 
@@ -69,6 +69,28 @@ function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
+        //For update item
+        socket.on('item-update', gatherId => {
+
+            socket.on('set-gather-item-topic', gatherId => {
+                console.log('got new topic', gatherId);
+                if (socket.gatherId === gatherId) return;
+                if (socket.gatherId) {
+                    // When visiting another gather, remove the prev "room"
+                    socket.leave(socket.gatherId)
+                    logger.info(`Socket is leaving topic ${socket.gatherId} [id: ${socket.id}]`)
+                }
+                socket.join(gatherId)
+                // save the toyid on this specific user socket for later use.
+                // socket.gatherId = gatherId
+            })
+            socket.gatherId = gatherId
+
+            console.log("gatherId socket back", gatherId)
+            logger.info(`Item update received from socket [id: ${socket.id}], emitting to topic ${socket.gatherId}`);
+            // Emit the item update event to all sockets in the same room
+            gIo.to(socket.gatherId).emit('item-updated', gatherId);
+        });
     })
 }
 
