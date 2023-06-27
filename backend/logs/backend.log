@@ -6522,3 +6522,24 @@
 27.6.2023, 11:11:46 - DEBUG - Getting Gathers 
 27.6.2023, 11:11:47 - DEBUG - Getting Gathers 
 27.6.2023, 11:11:49 - DEBUG - Getting Gathers 
+27.6.2023, 11:13:00 - INFO - Socket is leaving topic 64710aa05747121453698c43 [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 11:13:00 - DEBUG - Getting Gathers 
+27.6.2023, 11:13:02 - DEBUG - Getting Gathers 
+27.6.2023, 11:13:06 - DEBUG - Getting Gathers 
+27.6.2023, 11:13:07 - DEBUG - Getting Gathers 
+27.6.2023, 11:13:14 - INFO - user-watch from socket [id: Ju3tXOCFeEdIdPmuAACJ], on user 645286693cf1431dc48e756d 
+27.6.2023, 11:15:49 - INFO - Socket disconnected [id: undefined] 
+27.6.2023, 11:15:50 - INFO - New connected socket [id: FMLkDvfYjca1kGciAACN] 
+27.6.2023, 11:15:50 - INFO - Setting socket.userId = 101 for socket [id: FMLkDvfYjca1kGciAACN] 
+27.6.2023, 11:16:31 - INFO - user-watch from socket [id: Ju3tXOCFeEdIdPmuAACJ], on user 645286693cf1431dc48e756d 
+27.6.2023, 11:16:32 - DEBUG - Getting Gathers 
+27.6.2023, 11:16:35 - DEBUG - Getting Gathers 
+27.6.2023, 11:19:54 - DEBUG - Getting Gathers 
+27.6.2023, 11:19:57 - DEBUG - Getting Gathers 
+27.6.2023, 11:20:06 - DEBUG - Getting Gathers 
+27.6.2023, 11:20:07 - DEBUG - Getting Gathers 
+27.6.2023, 11:20:09 - INFO - Socket is leaving topic 64710b1a5747121453698c44 [id: Ju3tXOCFeEdIdPmuAACJ] 
+27.6.2023, 11:20:09 - DEBUG - Getting Gathers 
+27.6.2023, 11:20:10 - DEBUG - Getting Gathers 
+27.6.2023, 11:20:13 - INFO - user-watch from socket [id: Ju3tXOCFeEdIdPmuAACJ], on user 645286693cf1431dc48e756d 
+27.6.2023, 11:20:16 - DEBUG - Getting Gathers 
